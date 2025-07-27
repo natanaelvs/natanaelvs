@@ -1,7 +1,5 @@
-- 👋 Bem vindo ao meu perfil, aqui compartilho minhas vitórias no aprendizado da programação.
+Graduado em contabilidade em transição de carreira para area de tecnologia.
+Estudande de desenvolvimento de software na Fatec SP
+www.linkedin.com/in/natanaelviana
+Top Skills/Technologies: Python, C#, .NET
 
-
-<!---
-natanaelvs/natanaelvs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
